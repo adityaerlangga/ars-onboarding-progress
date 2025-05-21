@@ -3,7 +3,7 @@ import { defineWidgetConfig } from "@medusajs/admin-sdk"
 const ProductWidget = () => {
   return (
     <div>
-      <h2>Product Widget 124</h2>
+      <h2>Product Widget</h2>
     </div>
   )
 }
